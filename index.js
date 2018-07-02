@@ -38,3 +38,4 @@ function removeLastKitten(name) {
   return newKittens
   
 }
+
